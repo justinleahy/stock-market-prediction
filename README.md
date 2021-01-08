@@ -1,1 +1,1 @@
-# stock-market-prediction
+# Stock Maret Prediction
